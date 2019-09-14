@@ -5,3 +5,15 @@
 .flash-message {
     margin-top: 20px;
 }
+
+.questionForm {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-end;    
+}
+
+.inputQuestion{
+    width: 65vw;
+    margin-left: 5px;
+}
